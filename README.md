@@ -1,2 +1,2 @@
 # duck_it
-Search websites, images, and etc by DuckDuckGo
+Search DuckDuckGo for websites, images, etc.
